@@ -52,3 +52,5 @@ And finally the redundant features are droped based on the correlation checkup.
 Basic Logistic Regression model and Light GBM (Gradient Boosting Machine) are used.
 Confusion matrix-based evaluation and analysis are carried out along with plotting the importance of features in Light GBM model.
 The Final prediction on the test data is also done and the final result and the model perfomance evaluation matrics are also included.
+
+--Basil K Jose
